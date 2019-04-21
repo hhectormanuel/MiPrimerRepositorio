@@ -1,0 +1,3 @@
+switch(20<10){
+printf("hola mundo")
+}
